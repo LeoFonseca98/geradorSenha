@@ -23,7 +23,6 @@ A geração utiliza o módulo `random` com o método `SystemRandom`, garantindo 
 - **Tamanho da senha**: Pode ser ajustado no script alterando a variável `tamanho`.
 - **Conjunto de caracteres**: É possível modificar os caracteres utilizados na geração, ajustando a variável `chars`.
 
-## 📄 Licença
 
 Este projeto consiste em um script Python para gerar senhas aleatórias de forma rápida e segura. 
 O código foi desenvolvido durante uma aula na DIO.
